@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wer-U Today?</string>
+    <string name="location_notification_title">Location Tracking</string>
+    <string name="location_notification_text">Tracking location in background</string>
+</resources>
